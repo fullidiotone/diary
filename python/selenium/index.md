@@ -9,3 +9,5 @@ package selenium
 documentation selenium
 
 * http://selenium-python.readthedocs.io/ 
+
+[example](test3.py)
